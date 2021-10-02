@@ -25,6 +25,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/dice"
+        android:onClick="rollDice"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
